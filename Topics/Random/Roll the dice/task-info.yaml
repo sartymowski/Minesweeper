@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  highlight_level: NONE
+  text: "import kotlin.random.Random\n\nfun throwD6(): Int {\n    // write your code\
+    \ here\n\treturn numberOnTheDice\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11807#comment
+status: Solved
+record: -1
+submission_language: kotlin
